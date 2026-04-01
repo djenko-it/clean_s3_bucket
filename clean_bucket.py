@@ -2,7 +2,7 @@ import boto3
 
 # Configuration
 BUCKET_NAME = 'XXXX'
-ENDPOINT_URL = 'https://s3.AAA.io.cloud.ovh.net' # J'ai corrigé votre typo "io.io"
+ENDPOINT_URL = 'https://s3.AAA.io.cloud.ovh.net' 
 ACCESS_KEY = 'XXXX'
 SECRET_KEY = 'XXXX'
 REGION = 'AAA'
